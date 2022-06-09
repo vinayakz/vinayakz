@@ -13,6 +13,8 @@
    
    #### Connect with me: 
    
+   <a href="[https://www.linkedin.com/in/jaseemakhtar/](https://vinayakz.wordpress.com/)"><img alt="Wordpress" title="Wordpress" src="[https://img.shields.io/badge/-linked%20in-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-wordpress%20in-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)"/></a>
+   
 
 <!---
 vinayakz/vinayakz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
