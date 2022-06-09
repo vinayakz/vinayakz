@@ -13,7 +13,12 @@
    
    #### Connect with me: 
    
-   <a href="[https://www.linkedin.com/in/jaseemakhtar/](https://vinayakz.wordpress.com/)"><img alt="Wordpress" title="Wordpress" src="[https://img.shields.io/badge/-linked%20in-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/-wordpress%20in-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white)"/></a>
+   <a href="https://www.linkedin.com/in/vinayak-zutti"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/-linked%20in-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://vinayakz.wordpress.com/"><img alt="Wordpress" title="Wordpress" src="https://img.shields.io/badge/-wordpress%20-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+   <a href="https://github.com/vinayakz"><img alt="github" title="Github" src="https://img.shields.io/badge/-github%20in-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/></a>
+   <a href="https://profiles.wordpress.org/vinayakz/"><img alt="Wordpress" title="Wordpress Profile" src="https://img.shields.io/badge/-wordpress%20Profile-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+   <a href="https://www.facebook.com/vinoo160496"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook%20-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+   
    
 
 <!---
