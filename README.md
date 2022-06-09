@@ -3,11 +3,10 @@
   
    - <h4>🔭 I'm currently working on my personal  projects over weekends</h4>
    
-   - <h4>🌱 I’m currently learning Devops, Amazon Web Services(AWS), Reactjs, Node js</h4>
+   - <h4>📫 I’m currently learning Devops, Amazon Web Services(AWS), Reactjs, Node js</h4>
    
    - <h4>🖥️ I love Coding </h4>
    
-   - 📫 I’m currently working in Php WordPress Developer 
 
    <hr>
    
