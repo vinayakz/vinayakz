@@ -1,5 +1,5 @@
 - <h1>👋 Hi, I’m Vinayak Z.</h1>
-  <h3>MCA Graduate | Software Engineer - Devops Engineer 💕</h3>
+  <h3>MCA Graduate | Software Engineer - DevOps Engineer 💕</h3>
   
    - <h4>🔭 I'm currently working on my personal  projects over weekends</h4>
    
