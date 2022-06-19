@@ -1,7 +1,7 @@
   <h1>👋 Hi, I’m Vinayak Z.</h1>
   <h3>MCA Graduate | Software Engineer - DevOps Engineer 💕</h3>
   
-   - <h4>🔭 I'm currently working on my personal  projects over weekends</h4>
+   - <h4>🔭 PHP WordPress Developer At globussoft technologies private limited Bangalore. </h4>
    
    - <h4>📫 I’m currently learning Devops, Amazon Web Services(AWS), Reactjs, Node js</h4>
    
