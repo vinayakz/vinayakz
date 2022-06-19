@@ -5,7 +5,11 @@
    
    - <h4>📫 I’m currently learning Devops, Amazon Web Services(AWS), Reactjs, Node js</h4>
    
-   - <h4>🖥️ I love Coding </h4>
+   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS/XML) </h4>
+   
+   - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git/Linux/Jenkins/Kubernetes/Terraform/Docker/Ansible) and AWS cloud ☁  </h4>
+
+   - <h4>💻☁ AWS EC2, S3, EBS </h4>
    
 
    <hr>
