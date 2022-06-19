@@ -9,7 +9,7 @@
    
    - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git/Linux/Jenkins/Kubernetes/Terraform/Docker/Ansible) and AWS cloud ☁  </h4>
 
-   - <h4>💻☁ AWS EC2, S3, EBS </h4>
+   - <h4>☁ AWS EC2, S3, EBS </h4>
    
 
    <hr>
