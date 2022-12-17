@@ -5,9 +5,9 @@
    
    - <h4>📫 I’m currently learning Devops Tools, Amazon Web Services(AWS), Reactjs, Node js</h4>
    
-   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS/XML) </h4>
+   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS,Lambda,RDS) </h4>
    
-   - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git/Linux/Shell Scripting/Jenkins/Kubernetes/Terraform/Docker/Ansible/Sonarqube) and AWS cloud   </h4>
+   - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git SVN/Linux/Shell Scripting/Jenkins/Kubernetes/Terraform/Docker/Ansible/Sonarqube) and AWS cloud   </h4>
 
    - <h4>☁ AWS EC2, S3, EBS </h4>
    
