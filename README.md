@@ -3,7 +3,7 @@
   
    - <h4>🔭 PHP WordPress Developer </h4>
    
-   - <h4>📫 I’m currently learning Devops Tools, Amazon Web Services(AWS), Reactjs, Node js</h4>
+   - <h4>📫 I’m currently learning Devops Tools, Amazon Web Services(AWS), Python With automation, Kubernetes,</h4>
    
    - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS,Lambda,RDS) </h4>
    
