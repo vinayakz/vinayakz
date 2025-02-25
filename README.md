@@ -3,7 +3,7 @@
   
    - <h4>👨‍💻  DevOps Engineer  </h4>
    
-   - <h4>📫 I’m currently Working on Devops Tools like Amazon Web Services(AWS), Python With automation, Kubernetes, GitLab, Docker</h4>
+   - <h4>📫 I’m Currently Working on Devops Tools like Amazon Web Services(AWS), Python With automation, Kubernetes, GitLab, Docker</h4>
    
    - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS,Lambda,RDS) </h4>
    
