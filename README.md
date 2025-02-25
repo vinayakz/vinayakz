@@ -1,9 +1,9 @@
   <h1>👋 Hi, I’m Vinayak Z.</h1>
   <h3>MCA Graduate | Software Engineer - DevOps Engineer 💕</h3>
   
-   - <h4>🔭 Web Developer  </h4>
+   - <h4>👨‍💻  DevOps Engineer  </h4>
    
-   - <h4>📫 I’m currently learning Devops Tools, Amazon Web Services(AWS), Python With automation, Kubernetes,</h4>
+   - <h4>📫 I’m currently Working on Devops Tools like Amazon Web Services(AWS), Python With automation, Kubernetes, GitLab, Docker</h4>
    
    - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS,Lambda,RDS) </h4>
    
