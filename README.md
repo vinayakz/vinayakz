@@ -1,15 +1,14 @@
-  <h1>👋 Hi, I’m Vinayak Z.</h1>
-  <h3>MCA Graduate | Software Engineer - DevOps Engineer 💕</h3>
+  <h1>👋 Hi, I’m Vinayak Zutti.</h1>
+  <h3>Software Engineer - DevOps Engineer 👨‍💻</h3>
+  A Passionate DevOps Engineer From India
   
-   - <h4>👨‍💻  DevOps Engineer  </h4>
+   - <h4>👨‍💻  DevOps Engineer ☁  </h4>
    
    - <h4>📫 I’m Currently Working on Devops Tools like Amazon Web Services(AWS), Python With automation, Kubernetes, GitLab, Docker</h4>
    
-   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, S3, EBS,Lambda,RDS) </h4>
+   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, Amplify, EKS,Lambda,RDS) </h4>
    
    - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git SVN/Linux/Shell Scripting/Jenkins/Kubernetes/Terraform/Docker/Ansible/Sonarqube/Maven) and AWS cloud   </h4>
-
-   - <h4>☁ AWS, Azure, GCP </h4>
    
 
    <hr>
