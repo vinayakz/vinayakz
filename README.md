@@ -1,14 +1,16 @@
   <h1>👋 Hi, I’m Vinayak Zutti.</h1>
-  <h3>Software Engineer - DevOps Engineer 👨‍💻</h3>
-  A Passionate DevOps Engineer From India
+  <h3> 👨‍💻 Software Engineer - DevOps Engineer </h3>
+  <h4>A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h4>
   
    - <h4>👨‍💻  DevOps Engineer ☁  </h4>
    
-   - <h4>📫 I’m Currently Working on Devops Tools like Amazon Web Services(AWS), Python With automation, Kubernetes, GitLab, Docker</h4>
+   - <h4>☁️ Mastering cloud technologies on AWS</h4>
    
-   - <h4>👨‍💻 Web Developer (PHP/MySQL/WordPress/JavaScript/jQuery/HubSpot/AWS EC2, Amplify, EKS,Lambda,RDS) </h4>
+   - <h4>🐳 Container orchestration with Kubernetes in production environments</h4>
+   - <h4>⚡ Automating everything with Terraform & Ansible</h4>
+   - <h4>📈 Implementing observability with Prometheus+Grafana stacks
    
-   - <h4>👨‍💻 DevOps and Automation with good knowledge of DevOps Tools (Git SVN/Linux/Shell Scripting/Jenkins/Kubernetes/Terraform/Docker/Ansible/Sonarqube/Maven) and AWS cloud   </h4>
+   - <h4>👨‍💻 DevOps Automation with good knowledge of DevOps Tools (Git/Github/GitLab/Linux/Shell Scripting/Python/Jenkins/Docker/Terraform/Ansible/Kubernetes/Prometheus/Grafana/Helm/ArgoCD) and AWS cloud   </h4>
    
 
    <hr>
