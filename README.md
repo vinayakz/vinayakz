@@ -67,8 +67,8 @@
   ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
   ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
    
-     
-   
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinayakz" alt="vinayakz" />
 
 <!---
 vinayakz/vinayakz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
