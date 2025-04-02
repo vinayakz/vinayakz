@@ -1,4 +1,4 @@
-<h1>
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Vinayak+Zutti;+A+DevOps+Engineer!" />
 </h1>
   <h3> 👨‍💻 Software Engineer - DevOps Engineer </h3>
