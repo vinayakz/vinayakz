@@ -1,5 +1,5 @@
 <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=35&pause=1000&color=F7F4F4&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B+;I'm++Vinayak+Zutti+;A+DevOps+Engineer!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=900&size=35&pause=1000&color=F75C3F&width=700&height=70&lines=Hi+There!+%F0%9F%91%8B+;I%27m++Vinayak+Zutti+;A+DevOps+Engineer!" />
 </h1>
   <h3> 👨‍💻 Software Engineer - DevOps Engineer </h3>
   <h4>A passionate DevOps Engineer willing to implement my DevOps skills in a organization</h4>
