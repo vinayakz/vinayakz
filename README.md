@@ -23,7 +23,7 @@
    <a href="https://github.com/vinayakz"><img alt="github" title="Github" src="https://img.shields.io/badge/-github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/></a>
    <a href="https://profiles.wordpress.org/vinayakz/"><img alt="Wordpress" title="Wordpress Profile" src="https://img.shields.io/badge/-wordpress%20Profile-1DA1F2?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
    <a href="https://www.facebook.com/vinoo160496"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook%20-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-   <a href="https://dev-ops-portfolio-portfolios-projects-34f10aab.vercel.app/"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-Portfolio%20-1DA1F2?style=for-the-badge&logo=&logoColor=white"></a>
+   <a href="https://lnk.ink/Vinayakz"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-Portfolio%20-1DA1F2?style=for-the-badge&logo=&logoColor=white"></a>
    <a href="https://hashnode.com/@vinoo160496"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-Hashnode%20Blog-1DA1F2?style=for-the-badge&logo=hashnode&logoColor=white"></a>
    <a href="https://gitlab.com/vinoo160496"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-gitlab%20-1DA1F2?style=for-the-badge&logo=GitLab&logoColor=orange"></a>
 
