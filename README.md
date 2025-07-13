@@ -5,7 +5,8 @@ DevOps Engineer | AWS Cloud | Automation | Kubernetes | CI/CD | Docker | Terrafo
  <p><strong>Hey there!</strong> 👋 I am a dedicated DevOps Engineer focused on automating processes and efficiently scaling cloud infrastructures to drive operational excellence.</p>
 </div>
   
-![Github_new _banner](https://github.com/user-attachments/assets/a07d9ae4-ad67-4469-a0e7-933df42a1677)
+<img width="1584" height="396" alt="Github_new _banner" src="https://github.com/user-attachments/assets/e5278294-ea3c-42ca-8363-f37b0ff3afee" />
+
 
 <br>
 
