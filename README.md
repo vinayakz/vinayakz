@@ -55,6 +55,8 @@ DevOps Engineer | AWS Cloud | Automation | Kubernetes | CI/CD | Docker | Terrafo
 
 <img src="https://github-profile-trophy.vercel.app/?username=vinayakz" alt="vinayakz" />
 
+<img src="https://komarev.com/ghpvc/?username=vinayakz&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakz" />
+
 <!---
 vinayakz/vinayakz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
