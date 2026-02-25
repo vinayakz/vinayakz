@@ -50,14 +50,6 @@ DevOps Engineer | AWS Cloud | Automation | Kubernetes | CI/CD | Docker | Terrafo
    <a href="https://www.facebook.com/vinoo160496"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/-facebook%20-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
    <a href="https://gitlab.com/vinoo160496"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-gitlab%20-1DA1F2?style=for-the-badge&logo=GitLab&logoColor=orange"></a>
 
-  
-   
-## 📊 GitHub Stats
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vinayakz&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="vinayakz" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayakz&layout=compact&theme=tokyonight&hide_border=true" alt="vinayakz" />
-    <img src="https://komarev.com/ghpvc/?username=vinayakz&label=Profile%20views&color=0e75b6&style=flat" alt="vinayakz" />
-</div>
 
 
 <!---
