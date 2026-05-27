@@ -4,9 +4,13 @@
 
 
 # V I N A Y A K Z.
+
+**Development Platform, Automation & MLOps Enthusiast**
+
+`DevOps` · `AIOps` · `AI Infrastructure` · `Platform Engineering`
+
 *Turning DevOps Complexity into Developer Simplicity*
-<div align="center">
-    
+
 
  ***I build scalable cloud infrastructures, streamline DevOps automation, and develop Internal Developer Platforms to enhance deployment efficiency, improve system reliability, and accelerate engineering productivity.***
 </div>
