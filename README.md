@@ -13,7 +13,7 @@
 
 
  ***I build scalable cloud infrastructures, streamline DevOps automation, and develop Internal Developer Platforms to enhance deployment efficiency, improve system reliability, and accelerate engineering productivity.***
-</div>
+
 
 
 
@@ -54,7 +54,7 @@
    <a href="https://hub.docker.com/u/vinayakz"><img alt="github" title="Github" src="https://img.shields.io/badge/-docker hub-1DA1F2?style=for-the-badge&logo=docker&logoColor=white"/></a>
    <a href="https://github.com/vinayakz"><img alt="github" title="Github" src="https://img.shields.io/badge/-github-1DA1F2?style=for-the-badge&logo=github&logoColor=white"/></a>
    <a href="https://gitlab.com/vinoo160496"><img alt="Bio"  title="Bio" src="https://img.shields.io/badge/-gitlab%20-1DA1F2?style=for-the-badge&logo=GitLab&logoColor=orange"></a>
-
+</div>
 
 
 <!---
