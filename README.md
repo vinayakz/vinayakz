@@ -40,7 +40,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Connect With Me
+## Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-VinayakZutti-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://lnk.ink/Vinayakz)
 [![Blog](https://img.shields.io/badge/Blog-blog.Vinayakzutti-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@vinoo160496)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinayakzutti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinayak-zutti)
