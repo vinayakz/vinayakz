@@ -39,6 +39,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/-Amazon%20Q-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude AI](https://img.shields.io/badge/-Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/-AWS%20Bedrock-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EKS](https://img.shields.io/badge/-AWS%20EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/-AWS%20ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white)
 
 ## Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-VinayakZutti-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://lnk.ink/Vinayakz)
